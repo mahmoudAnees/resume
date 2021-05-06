@@ -1,0 +1,59 @@
+.navbar{
+  position: fixed;
+  width :100%;
+  top: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2A4148;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Arial;
+}
+.full{
+  margin-top: 60px;
+  font-size: 20px;
+  font-family: Arial;
+  padding-left: 20px;
+}
+.hide{
+  display: none;
+}
+
+.contact {
+  margin-top: 30px;
+  position: fixed;
+  width: 25%;
+  height: 100%;
+  display: inline;
+  float: left;
+  background-color: #2A4148;
+  color: white;
+  text-align: left;
+  font-size: 20px;
+  font-family: Arial;
+  padding-left: 20px;
+}
+.mainDiv{
+  margin-top: 30px;
+  display: inline;
+  float: right;
+  width: 65%;
+  text-align: left;
+  font-size: 20px;
+  font-family: Arial;
+  padding-left: 20px;
+}
